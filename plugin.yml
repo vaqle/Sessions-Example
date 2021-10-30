@@ -1,0 +1,6 @@
+name: "Sessions"
+main: vale\Main
+api: 4.0.0
+author: vaqle
+description: "Example for Sessions"
+version: 1.0
